@@ -7,7 +7,9 @@ I have decided that I will be returning to work on quality of life and enhanceme
 I have plans for the reboot of this project, and how I wish to go about it as well. Here are the current plans, and also some notes as well to keep in mind.
 
 - I will be working on this myself only. There will be no PRs.
+- Issues section will be disabled too in the meantime until the first release is released.
 - I am not returning to the original project, and I am no longer providing support for any old scripts.
+- The repository of the old project will eventually be updated and likely archived at some point. Once I feel Reborn is in a good enough state.
 - I am starting from square one and from scratch here. I plan to rewrite a majority of what I've made previously.
 - Reborn may or may not be compaitable with any of the older scripts. Reborn will not be developed with the idea of ensuring compaitability with any other scripts/automation.
 - There will be no scripts here in PSR, my plan is and will only be an AIO unified script that modualarly functions.
