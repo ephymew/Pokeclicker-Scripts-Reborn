@@ -11,7 +11,7 @@ I have plans for the reboot of this project, and how I wish to go about it as we
 - I am starting from square one and from scratch here. I plan to rewrite a majority of what I've made previously.
 - Reborn may or may not be compaitable with any of the older scripts. Reborn will not be developed with the idea of ensuring compaitability with any other scripts/automation.
 - There will be no scripts here in PSR, my plan is and will only be an AIO unified script that modualarly functions.
-- THe only time I am going to "fix" or updaate any old scripts is if I choose to take any of the old ones and port them over to Reborn.
+- The only time I am going to "fix" or updaate any old scripts is if I choose to take any of the old ones and port them over to Reborn.
 - Some old scripts and or features of them will be omitted here in Reborn.
 - That is also to say that there will surely be new things as well.
 
